@@ -4,6 +4,7 @@ title: "[LG Aimers 3기] Module 1. AI 윤리"
 categories: LGAimers
 tag: AI
 use_math: false
+author_profile: false
 ---
 
 ## 1. 데이터 분석과 AI학습에서 유의할 점
