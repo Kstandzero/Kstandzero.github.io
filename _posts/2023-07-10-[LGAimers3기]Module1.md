@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "[LG Aimers 3기] Module 1. AI 윤리"
-categories: LG Aimers
+categories: LGAimers
 tag: AI
 use_math: false
 ---
